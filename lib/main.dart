@@ -5,7 +5,9 @@ void main() {
   runApp(MyApp());
 }
 
-//Steven modify here
+//git init -> git status -> git add . -> git commit -m "訊息" -> git status
+//git log
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
